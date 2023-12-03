@@ -10,5 +10,6 @@ public class FibonacciSeriesPrint {
 			f=s;
 			s=t;
 		}
+		System.out.println("Thank You");
 	}
 }
